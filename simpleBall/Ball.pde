@@ -21,3 +21,13 @@ class Ball {
     ellipse (x, y, r, r);
   }
 }
+<<<<<<< HEAD
+=======
+
+void keyPressed() {
+if ((key == 'R') || (key == 'r')) {
+javax.swing.JOptionPane.showMessageDialog(null, " Saad+Brady = famz");
+exit();
+}
+}
+>>>>>>> refs/remotes/jpbrichta/master
